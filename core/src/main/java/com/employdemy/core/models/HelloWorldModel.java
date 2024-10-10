@@ -62,7 +62,7 @@ public class HelloWorldModel {
             + "Current page is:  " + currentPagePath + "\n"
             + "This is instance: " + settings.getSlingId() + "\n";
     }
-
+//getter 
     public String getMessage() {
         return message;
     }
